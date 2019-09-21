@@ -35,6 +35,8 @@ include::initial/src/main/java/hello/HelloWorld.java[]
 ----
 
 `src/main/java/hello/Greeter.java`
+
+' hi this sis kjiji'
 [source,java]
 ----
 include::initial/src/main/java/hello/Greeter.java[]
